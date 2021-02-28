@@ -31,7 +31,7 @@ javascript: window.location.href = window.location.href.replace(/github(1s)?.com
 
 If you want to view non-public repositories, you need to add an OAuth token.  The token is stored only in your browser, and only send to GitHub when fetching your repository's files.  Click on the icon near the bottom of the left-hand row of icons, and the dialog box will prompt you for it, and even take you to your GitHub settings page to generate one, if needed.
 
-<img src='https://raw.githubusercontent.com/timbaileyjones/github1s/master/resources/docs/images/auth-token.png'>
+![VS Code - GitHub1s](https://raw.githubusercontent.com/timbaileyjones/github1s/master/resources/images/auth-token.png)
 
 ## Screenshots
 
